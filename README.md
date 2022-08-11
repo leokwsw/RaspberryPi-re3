@@ -9,7 +9,7 @@
 影片教程: 請等待更新
 
 安裝步驟指令(Command):  
-1) git clone https://github.com/laomingOfficial/RaspberryPi-re3
+1) git clone https://github.com/leokwsw/RaspberryPi-re3
 2) chmod -R +x RaspberryPi-re3/*.sh
 3) 以你系統運行以下指令
 
